@@ -269,3 +269,7 @@ html, body {
 .demo-card-event > .mdl-card__actions > .mdl-button {
   color: #fff;
 }
+
+.mdl-grid.mdl-grid--no-spacing>.mdl-cell {
+  margin-top: 10px;
+}
